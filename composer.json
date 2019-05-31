@@ -1,0 +1,14 @@
+{
+    "name": "hmistry/json-to-sql",
+    "description": "Formates given json response to sql to save it in database for future reference.",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Hasmukh Mistry",
+            "email": "hasmukh.mistry@trivago.com"
+        }
+    ]
+}
